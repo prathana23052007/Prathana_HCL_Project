@@ -1,5 +1,7 @@
 # Name: Prathana Kumari
 # Admission No: 26B15410286
+# email: prathana.26b15410286
+# github repository:https://github.com/prathana23052007/Prathana_HCL_Project/edit/main/Travel-and-tourism.py
 
 import os
 import numpy as np
@@ -450,5 +452,3 @@ df.to_excel(
     ),
     index=False
 )
-
-print("\nCleaned data saved successfully in OUTPUT folder.")
